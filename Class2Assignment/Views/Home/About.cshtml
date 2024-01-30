@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+    <a href="@Url.Action("Index", "Home")">Index</a>
+    <a href="@Url.Action("Education", "Home")">Education</a>
+    <a href="@Url.Action("Personal", "Home")">Personal</a>
+    <a href="@Url.Action("Projects", "Home")">Projects</a>
+    <a href="@Url.Action("Reference", "Home")">Reference</a>
+    <p>Use this area to provide additional information.</p>
+</main>
