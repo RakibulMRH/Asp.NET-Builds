@@ -1,36 +1,39 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Reference";
 }
 
+<h2>References</h2>
+<ol>
+    <li>
+        <div class="reference">
+            <div class="name">Zahiduddin Ahmed</div>
+            <div class="designation">Assistant Professor</div>
+            <div class="institute">Faculty Of Science And Technology</div>
+            <div class="email"><a href="mailto:zahid@aiub.edu">zahid@aiub.edu</a></div>
+        </div>
+    </li>
+    <li>
+        <div class="reference">
+            <div class="name">Shibaji Mridha</div>
+            <div class="designation">Assistant Professor</div>
+            <div class="institute">Faculty of Arts & Social Science</div>
+            <div class="email"><a href="mailto:smridha@aiub.edu">smridha@aiub.edu</a></div>
+        </div>
+    </li>
+</ol>
 
+<style>
+    .reference {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
 
-<h2>Reference</h2>
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Designation</th>
-        <th>Institute</th>
-        <th>Email</th>
-    </tr>
-    <tr>
-        <td>Shibaji Mridha</td>
-        <td>Assistant Professor</td>
-        <td>Faculty of Arts & Social Science</td>
-        <td>
-            <a href="mailto:smridha@aiub.edu">
-                smridha@aiub.edu
-            </a>
-</td>
-</tr>
-<tr>
-<td>Zahiduddin Ahmed</td>
-<td>Assistant Professor</td>
-<td>Faculty Of Science And Technology</td>
-<td>
-        
-    <a href="mailto:zahid@aiub.edu">
-        zahid@aiub.edu </a>
-</td>
-</tr>
-</table>
+    .name {
+        font-weight: bold;
+    }
+
+    .email a {
+        color: blue;
+    }
+</style>
