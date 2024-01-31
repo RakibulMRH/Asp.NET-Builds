@@ -11,6 +11,11 @@ namespace Class2Assignment.Controllers
 
         public ActionResult Index()
         {
+            var index = new index();
+            index.Name = "MD. Rakibul Hasan";
+            index.Id = "21-44418-1";
+            index.Email = "rakibulmrh4bd@gmail.com";
+            ViewBag.Index = index;
             return View();
         }
         public ActionResult Education()

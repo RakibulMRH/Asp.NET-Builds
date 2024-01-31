@@ -125,6 +125,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Education.cs" />
+    <Compile Include="Models\index.cs" />
     <Compile Include="Models\personInfo.cs" />
     <Compile Include="Models\Projects.cs" />
     <Compile Include="Models\Reference.cs" />
