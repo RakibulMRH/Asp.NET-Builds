@@ -7,28 +7,20 @@
 <main>
     
     <h2>Education</h2>
-    <table border="1">
+    <table class="table table-bordered">
         <tr>
             <th>Degree</th>
             <th>Year</th>
             <th>Institute</th>
         </tr>
-        <tr>
-            <td>SSC</td>
-            <td>2017</td>
-            <td>Jamalpur Zilla School</td>
-        </tr>
-        <tr>
-            <td>HSC</td>
-            <td>2019</td>
-            <td> Ashek Mahmud College</td>
-        </tr>
-        <tr>
-            <td>BSc</td>
-            <td>2024</td>
-            <td>American International University</td>
-        </tr>
-
-    </table>
+        @foreach (var i in ViewBag.Educations)
+        {
+            <tr> 
+                <td>@i.Degree</td>
+                <td>@i.Year</td>
+                <td>@i.Institute</td>
+            </tr>
+        }
+        </table>
 </main>
 

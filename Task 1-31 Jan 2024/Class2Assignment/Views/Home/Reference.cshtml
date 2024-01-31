@@ -4,22 +4,16 @@
 
 <h2>References</h2>
 <ol>
-    <li>
-        <div class="reference">
-            <div class="name">Zahiduddin Ahmed</div>
-            <div class="designation">Assistant Professor</div>
-            <div class="institute">Faculty Of Science And Technology</div>
-            <div class="email"><a href="mailto:zahid@aiub.edu">zahid@aiub.edu</a></div>
-        </div>
-    </li>
-    <li>
-        <div class="reference">
-            <div class="name">Shibaji Mridha</div>
-            <div class="designation">Assistant Professor</div>
-            <div class="institute">Faculty of Arts & Social Science</div>
-            <div class="email"><a href="mailto:smridha@aiub.edu">smridha@aiub.edu</a></div>
-        </div>
-    </li>
+@foreach (var reference in ViewBag.References)
+    {
+        <li class="reference">
+            <div class="name">@reference.Name</div>
+            <div class="designation">@reference.Designation</div>
+            <div>@reference.Organization</div>
+            <div class="email">Email: <a href="mailto:@reference.Email">@reference.Email</a></div>
+            <div class="phone">Phone: @reference.MobileNumber</div>
+        </li>
+    }
 </ol>
 
 <style>

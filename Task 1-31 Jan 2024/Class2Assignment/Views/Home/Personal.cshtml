@@ -5,15 +5,15 @@
 
 
 <h2>Personal</h2>
-<p>Highly skilled and motivated Sr. Software Engineer with a strong background in developing VAT Processing Software, ERP Software, and HRM & Payroll Software. Proficient in .NET Framework, C#, ASP.NET MVC, and ASP.NET Core. Committed to delivering technical solutions and achieving business outcomes through collaborative teamwork.</p>
+<p>@ViewBag.Message</p>
 <h2>Personal Details</h2>
-<p><strong>First Name:</strong>  </p>
-<p><strong>Last Name:</strong>  </p>
-<p><strong>Father's Name:</strong>  </p>
-<p><strong>Mother's Name:</strong>  </p>
-<p><strong>Date of Birth:</strong> March 16, 2002</p>
-<p><strong>Blood Group:</strong> B+</p>
-<p><strong>Mobile Number:</strong> +1234567890</p>
-<p><strong>Email:</strong> rakibulmrh4bd@gmail.com</p>
-<p><strong>Address:</strong> 123 Main Street, City, Country</p>
-<p><strong>Website:</strong> <a href="https://www.example.com">www.rakibulmrh.com</a></p>
+<p><strong>First Name: @ViewBag.personInfo.FirstName</strong>  </p>
+<p><strong>Last Name: @ViewBag.personInfo.LastName </strong>  </p>
+<p><strong>Father's Name: @ViewBag.personInfo.FatherName</strong>  </p>
+<p><strong>Mother's Name: @ViewBag.personInfo.MotherName</strong>  </p>
+<p><strong>Date of Birth: @ViewBag.personInfo.DateOfBirth</strong></p>
+<p><strong>Blood Group: @ViewBag.personInfo.BloodGroup</strong></p>
+<p><strong>Mobile Number: @ViewBag.personInfo.MobileNumber</strong></p>
+<p><strong>Email: @ViewBag.personInfo.Email</strong></p>
+<p><strong>Address: @ViewBag.personInfo.Address</strong></p>
+<p><strong>Website: <a href="@ViewBag.personInfo.Website">@ViewBag.personInfo.Website</a></strong></p>
