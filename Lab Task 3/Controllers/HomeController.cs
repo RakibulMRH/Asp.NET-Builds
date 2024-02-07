@@ -10,36 +10,26 @@ namespace Lab_Task_3.Controllers
     public class HomeController : Controller
     {
         [HttpGet]
-        public ActionResult Index()
+        public ActionResult Registration()
         {
             return View(new Student());
         }
 
         [HttpPost]
-        public ActionResult Index(Student student)
+        public ActionResult Registration(Student student)
         {
-            if (student.Email == null || student.Id == null || !student.Email.StartsWith(student.Id))
+            if (ModelState.IsValid)
             {
-                ModelState.AddModelError("Email", "Email ID must match the provided ID.");
-                return View(student);
+                return View("Success");
             }
             else
             {
-                return View("About");
+                return View(student);
             }
         }
 
-        public ActionResult About()
+        public ActionResult Success()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }

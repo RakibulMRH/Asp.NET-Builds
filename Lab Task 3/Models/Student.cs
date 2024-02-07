@@ -22,8 +22,8 @@ namespace Lab_Task_3.Models
         [RegularExpression(@"^[a-zA-Z0-9.-]*$", ErrorMessage = "Username must contain only alphanumeric characters, periods, and hyphens.")]
         public string Username { get; set; }
 
-        [Required(ErrorMessage = "Email is required.")
-        [RegularExpression(@"^[0-9]{2}-[0-9]{5}-[1-3]{1}@student.aiub.edu$", ErrorMessage = "Invalid email format.")]
+        [Required(ErrorMessage = "Email is required.")]
+        [CustomAnnonationEmail]
         public string Email { get; set; }
 
     }
