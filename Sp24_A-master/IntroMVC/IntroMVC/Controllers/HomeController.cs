@@ -9,6 +9,7 @@ namespace IntroMVC.Controllers
     public class HomeController : Controller
     {
         public ActionResult Login() {
+
             return View();
         }
         public ActionResult SignUp() {
