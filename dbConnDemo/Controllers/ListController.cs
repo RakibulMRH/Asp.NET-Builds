@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -14,21 +13,12 @@ namespace dbConnDemo.Controllers
         public ActionResult List()
         {
             var db = new EF.ASPEntities();
-            var data = (from s in db.Students
-                        join c in db.Courses on s.Id equals c.Id
-                        join d in db.Departments on s.Id equals d.Id
-                        select new
-                        {
-                            s.Id,
-                            s.Name,
-                            s.Address,
-                            s.Cgpa,
-                            c.CourseCode,
-                          Dname=  c.Name,
-                            c.Credit,
-                           // d.Name
-                        }).ToList();
-            return View(data);
+            var data = db.Students.ToList();
+            var dataD = db.Departments.ToList();
+            var dataC = db.Courses.ToList();
+
+            //return multiple models
+            return View(Tuple.Create(data, dataD, dataC));
         }
     }
 }

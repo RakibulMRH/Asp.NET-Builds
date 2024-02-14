@@ -23,7 +23,7 @@ namespace dbConnDemo.Controllers
                 var db = new EF.ASPEntities();
                 db.Courses.Add(c);
                 db.SaveChanges();
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("List", "List");
             }
             return View();
         }

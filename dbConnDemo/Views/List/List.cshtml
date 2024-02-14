@@ -1,26 +1,57 @@
-﻿
+﻿@model Tuple<List<dbConnDemo.EF.Student>, List<dbConnDemo.EF.Department>, List<dbConnDemo.EF.Cours>>
+
 @{
     ViewBag.Title = "List";
 }
 
-<h2>Information List</h2>
-
+<h2>Information List</h2><br>
+<h4>Students</h4>
 <table class="table table-bordered">
-    <th>Id</th>
-    <th>Name</th>
-    <th>Address</th>
-    <th>CGPA</th>
-    <th>Course Code</th>
-    <th>Credit</th>
-    @foreach (var s in Model)
+    <tr>
+        <th>Student Id</th>
+        <th>Student Name</th>
+        <th>Student Address</th>
+        <th>Student CGPA</th>
+    </tr>
+    @foreach (var item in Model.Item1)
     {
         <tr>
-            <td>@s.Id</td>
-            <td>@s.Name</td>
-            <td>@s.Address</td>
-            <td>@s.Cgpa</td>
-            <td>@s.CourseCode</td>
-            <td>@s.Credit</td>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Address</td>
+            <td>@item.Cgpa</td>
+        </tr>
+    }
+</table>
+<h4>Departments</h4>
+<table class="table table-bordered">
+    <tr>
+        <th>Department Id</th>
+        <th>Department Name</th>
+    </tr>
+    @foreach (var item in Model.Item2)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+        </tr>
+    }
+</table>
+<h4>Courses</h4>
+<table class="table table-bordered">
+    <tr>
+        <th>Course Id</th>
+        <th>Course Name</th>
+        <th>Course Code</th>
+        <th>Credit</th>
+    </tr>
+    @foreach (var item in Model.Item3)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.CourseCode</td>
+            <td>@item.Credit</td>
         </tr>
     }
 </table>

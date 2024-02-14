@@ -24,7 +24,7 @@ namespace dbConnDemo.Controllers
                 var db = new ASPEntities();
                 db.Departments.Add(d);
                 db.SaveChanges();
-                return RedirectToAction("Student", "Student");
+                return RedirectToAction("List", "List");
             }
             return View();
         }
