@@ -15,7 +15,7 @@ namespace Lab_Task_3.Models
             {
                 var test = data.Id + "@student.aiub.edu";
                 
-                if ( test == data.Email)
+                if ( object.Equals(test,data.Email) )
                 {
                     return ValidationResult.Success;
                 }
