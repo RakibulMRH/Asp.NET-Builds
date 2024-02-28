@@ -16,7 +16,7 @@ namespace IntroEFCURD.EF
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Code { get; set; }
+        public int Code { get; set; }
         public int Credit { get; set; }
         public string Type { get; set; }
         public int DeptId { get; set; }

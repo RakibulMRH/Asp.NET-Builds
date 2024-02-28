@@ -12,7 +12,7 @@ namespace IntroEFCURD.Controllers
         // GET: Department
         public ActionResult Index()
         {
-            var db = new Sp24_aEntities();
+            var db = new ASPEntities();
             var data = db.Departments.ToList();
             return View(data);
         }
@@ -22,14 +22,14 @@ namespace IntroEFCURD.Controllers
         }
         [HttpPost]
         public ActionResult Create(Department d) {
-            var db = new Sp24_aEntities();
+            var db = new ASPEntities();
             db.Departments.Add(d);
             db.SaveChanges();
             return RedirectToAction("Index");
         }
         [HttpGet]
         public ActionResult Edit(int id) {
-            var db = new Sp24_aEntities();
+            var db = new ASPEntities();
             var data = db.Departments.Find(id);
             #region delete
             //db.Departments.Remove(data);
@@ -40,14 +40,14 @@ namespace IntroEFCURD.Controllers
         }
         [HttpPost]
         public ActionResult Edit(Department upObj) {
-            var db = new Sp24_aEntities();
+            var db = new ASPEntities();
             var exobj = db.Departments.Find(upObj.Id);
             exobj.Name = upObj.Name;
             db.SaveChanges();
             return RedirectToAction("Index");
         }
         public ActionResult Details(int id) {
-            var db = new Sp24_aEntities();
+            var db = new ASPEntities();
             var exobj = db.Departments.Find(id);
             //var courses = (from c in db.Courses
             //              where c.DeptId == id

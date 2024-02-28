@@ -18,5 +18,9 @@ namespace dbConnDemo.EF
         public int CourseCode { get; set; }
         public string Name { get; set; }
         public int Credit { get; set; }
+        public string Type { get; set; }
+        public int DeptId { get; set; }
+    
+        public virtual Department Department { get; set; }
     }
 }
