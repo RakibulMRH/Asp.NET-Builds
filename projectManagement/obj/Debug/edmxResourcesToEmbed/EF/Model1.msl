@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="labtaskModelStoreContainer" CdmEntityContainer="labtaskEntities">
+    <EntitySetMapping Name="logins">
+      <EntityTypeMapping TypeName="labtaskModel.login">
+        <MappingFragment StoreEntitySet="logins">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="uname" ColumnName="uname" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="members">
+      <EntityTypeMapping TypeName="labtaskModel.member">
+        <MappingFragment StoreEntitySet="members">
+          <ScalarProperty Name="mId" ColumnName="mId" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+          <ScalarProperty Name="mstatus" ColumnName="mstatus" />
+          <ScalarProperty Name="pId" ColumnName="pId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projects">
+      <EntityTypeMapping TypeName="labtaskModel.project">
+        <MappingFragment StoreEntitySet="projects">
+          <ScalarProperty Name="pId" ColumnName="pId" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="pstatus" ColumnName="pstatus" />
+          <ScalarProperty Name="deadline" ColumnName="deadline" />
+          <ScalarProperty Name="dcp" ColumnName="dcp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

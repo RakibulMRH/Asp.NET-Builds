@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="labtaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="logins">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="uname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pass" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="type" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="members">
+    <Key>
+      <PropertyRef Name="mId" />
+    </Key>
+    <Property Name="mId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="mname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="mstatus" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="projects">
+    <Key>
+      <PropertyRef Name="pId" />
+    </Key>
+    <Property Name="pId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pstatus" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="deadline" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="dcp" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_members_projects">
+    <End Role="projects" Type="Self.projects" Multiplicity="1" />
+    <End Role="members" Type="Self.members" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="projects">
+        <PropertyRef Name="pId" />
+      </Principal>
+      <Dependent Role="members">
+        <PropertyRef Name="pId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="labtaskModelStoreContainer">
+    <EntitySet Name="logins" EntityType="Self.logins" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="members" EntityType="Self.members" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="projects" EntityType="Self.projects" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_members_projects" Association="Self.FK_members_projects">
+      <End Role="projects" EntitySet="projects" />
+      <End Role="members" EntitySet="members" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
