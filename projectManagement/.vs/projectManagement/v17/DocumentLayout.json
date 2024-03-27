@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrhra\\AppData\\Local\\Temp\\.vsdbgsrc\\6ee0929e60b23efe80176344a18d564c479cf9333705a634d54f6e6d1e26d283\\RegisterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\views\\register\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:views\\register\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7175BE96-804E-43B0-A6B6-76EEA3981509}|projectManagement.csproj|solutionrelative:ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\mrhra\\AppData\\Local\\Temp\\.vsdbgsrc\\6ee0929e60b23efe80176344a18d564c479cf9333705a634d54f6e6d1e26d283\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\mrhra\\AppData\\Local\\Temp\\.vsdbgsrc\\6ee0929e60b23efe80176344a18d564c479cf9333705a634d54f6e6d1e26d283\\RegisterController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:45:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "Auth\\AdminAccess.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "Auth\\AdminAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:04:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "logged.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Auth\\logged.cs",
+              "RelativeDocumentMoniker": "Auth\\logged.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Auth\\logged.cs",
+              "RelativeToolTip": "Auth\\logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:03:02.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:27:42.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:01:56.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "member.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\member.cs",
+              "RelativeDocumentMoniker": "EF\\member.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\member.cs",
+              "RelativeToolTip": "EF\\member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T07:11:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.cs",
+              "RelativeDocumentMoniker": "EF\\Model1.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.cs",
+              "RelativeToolTip": "EF\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T07:11:19.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-06T07:14:07.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Admin\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Projects.cshtml",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Admin\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Projects.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-06T06:43:48.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:21:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Register\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\Registration.cshtml",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Views\\Register\\Registration.cshtml",
+              "RelativeToolTip": "Views\\Register\\Registration.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-06T07:27:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:07:19.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\login.cs",
+              "RelativeDocumentMoniker": "EF\\login.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\login.cs",
+              "RelativeToolTip": "EF\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T07:07:27.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "project.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\project.cs",
+              "RelativeDocumentMoniker": "EF\\project.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\project.cs",
+              "RelativeToolTip": "EF\\project.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T07:11:19.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:24:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "EF\\Model1.edmx",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-06T07:10:40.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:21:11.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "EF\\Model1.edmx.diagram",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\projectManagement\\EF\\Model1.edmx.diagram",
+              "RelativeToolTip": "EF\\Model1.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T07:15:15.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
