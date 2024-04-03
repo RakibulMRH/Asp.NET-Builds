@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|e:\\aiub\\advanced programming with .net [a]\\lab\\asp.net-builds\\newsportal\\ef\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|solutionrelative:ef\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|e:\\aiub\\advanced programming with .net [a]\\lab\\asp.net-builds\\newsportal\\ef\\tables\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|solutionrelative:ef\\tables\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|e:\\aiub\\advanced programming with .net [a]\\lab\\asp.net-builds\\newsportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CAB8D44-B581-42ED-9D43-6671359D9DC0}|newsPortal.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsContext.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\EF\\NewsContext.cs",
+              "RelativeDocumentMoniker": "EF\\NewsContext.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\EF\\NewsContext.cs",
+              "RelativeToolTip": "EF\\NewsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:07:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\EF\\Tables\\News.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\News.cs",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\EF\\Tables\\News.cs",
+              "RelativeToolTip": "EF\\Tables\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:04:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\AIUB\\ADVANCED PROGRAMMING WITH .NET [A]\\LAB\\Asp.NET-Builds\\newsPortal\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-03T07:02:34.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
