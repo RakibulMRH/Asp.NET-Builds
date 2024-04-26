@@ -7,8 +7,8 @@ using System.Web;
 
 namespace newsPortal.EF
 {
-    public class NewsContext : DbSet
+    public class NewsContext : DbContext
     {
-        public DbSet<News> news { get; set; }
+        public DbSet<News> News { get; set; }
     }
 }

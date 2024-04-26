@@ -13,8 +13,5 @@ namespace newsPortal.EF.Tables
 
         public DateTime Date { get; set; }
 
-        public 
-
-
     }
 }
