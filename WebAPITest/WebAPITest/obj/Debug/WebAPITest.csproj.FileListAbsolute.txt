@@ -1,0 +1,305 @@
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\WebAPITest.dll.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\WebAPITest.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\WebAPITest.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csc.exe
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csc.exe.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csc.rsp
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csi.exe
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csi.exe.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\csi.rsp
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.AppContext.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Collections.Immutable.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Console.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Globalization.Calendars.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.IO.Compression.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.IO.FileSystem.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Net.Http.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Net.Sockets.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Reflection.Metadata.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.ValueTuple.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Xml.XPath.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\vbc.exe
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\vbc.exe.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\vbc.rsp
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\VBCSCompiler.exe
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\roslyn\VBCSCompiler.exe.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Antlr3.Runtime.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\BLL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Microsoft.Web.Infrastructure.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Newtonsoft.Json.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Net.Http.Formatting.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Helpers.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Http.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Http.WebHost.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Mvc.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Optimization.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Razor.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.Deployment.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.Razor.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\WebGrease.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\BLL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Newtonsoft.Json.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Net.Http.Formatting.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Helpers.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Http.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Http.WebHost.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Mvc.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Optimization.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.Razor.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.Deployment.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\System.Web.WebPages.Razor.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Antlr3.Runtime.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\obj\Debug\WebAPITest.csproj.AssemblyReference.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\obj\Debug\WebAPITest.csproj.CoreCompileInputs.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\obj\Debug\WebAPITest.csproj.Up2Date
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\obj\Debug\WebAPITest.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\obj\Debug\WebAPITest.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\EntityFramework.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\DAL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\DAL.dll.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\EntityFramework.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\EntityFramework.SqlServer.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\bin\EntityFramework.SqlServer.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\WebAPITest.dll.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\WebAPITest.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\WebAPITest.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csc.exe
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csc.exe.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csc.rsp
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csi.exe
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csi.exe.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\csi.rsp
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.AppContext.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Collections.Immutable.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Console.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Globalization.Calendars.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.IO.Compression.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.IO.FileSystem.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Net.Http.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Net.Sockets.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Reflection.Metadata.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.ValueTuple.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XPath.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\vbc.exe
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\vbc.exe.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\vbc.rsp
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\VBCSCompiler.exe
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\roslyn\VBCSCompiler.exe.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Antlr3.Runtime.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\EntityFramework.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\EntityFramework.SqlServer.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Microsoft.Web.Infrastructure.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Newtonsoft.Json.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Net.Http.Formatting.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Helpers.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Http.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Http.WebHost.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Mvc.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Optimization.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Razor.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.Deployment.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.Razor.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\WebGrease.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\BLL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\EntityFramework.SqlServer.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Newtonsoft.Json.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Net.Http.Formatting.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Helpers.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Http.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Http.WebHost.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Mvc.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Optimization.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.Razor.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.Deployment.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\System.Web.WebPages.Razor.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Antlr3.Runtime.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\bin\DAL.dll.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.AssemblyReference.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.CoreCompileInputs.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.Up2Date
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\obj\Debug\WebAPITest.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\WebAPITest\obj\Debug\WebAPITest.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\WebAPITest.dll.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\WebAPITest.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\WebAPITest.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csc.exe
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csc.exe.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csc.rsp
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csi.exe
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csi.exe.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\csi.rsp
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.AppContext.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Buffers.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Collections.Immutable.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Console.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Globalization.Calendars.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.IO.Compression.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.IO.FileSystem.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Memory.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Net.Http.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Net.Sockets.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Numerics.Vectors.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Reflection.Metadata.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.ValueTuple.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XPath.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\vbc.exe
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\vbc.exe.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\vbc.rsp
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\VBCSCompiler.exe
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\roslyn\VBCSCompiler.exe.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Antlr3.Runtime.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Microsoft.Web.Infrastructure.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Newtonsoft.Json.Bson.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Newtonsoft.Json.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Renci.SshNet.Async.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Renci.SshNet.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Buffers.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Memory.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Net.Http.Formatting.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Numerics.Vectors.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Threading.Tasks.Extensions.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Helpers.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Http.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Http.WebHost.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Mvc.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Optimization.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Razor.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.Deployment.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.Razor.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\WebGrease.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\EntityFramework.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\BLL.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\BLL.dll.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Newtonsoft.Json.Bson.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Newtonsoft.Json.Bson.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Renci.SshNet.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Renci.SshNet.Async.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Buffers.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Memory.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Net.Http.Formatting.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Numerics.Vectors.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Threading.Tasks.Extensions.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Helpers.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Http.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Http.WebHost.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Mvc.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Razor.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.Deployment.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.WebPages.Razor.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Newtonsoft.Json.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\System.Web.Optimization.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\Antlr3.Runtime.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\DAL.dll.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\bin\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.AssemblyReference.cache
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.CoreCompileInputs.cache
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csproj.Up2Date
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\obj\Debug\WebAPITest.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\WebAPITest\obj\Debug\WebAPITest.pdb

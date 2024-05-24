@@ -1,0 +1,48 @@
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\DAL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\obj\Debug\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\obj\Debug\DAL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\DAL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\obj\Debug\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\WebAPITest\DAL\obj\Debug\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Renci.SshNet.Async.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Renci.SshNet.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Renci.SshNet.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\Renci.SshNet.Async.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -1,0 +1,47 @@
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\BLL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\BLL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\DAL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\DAL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\obj\Debug\BLL.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\obj\Debug\BLL.pdb
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\DAL.dll.config
+E:\AIUB\ADVANCED PROGRAMMING WITH .NET [A]\LAB\Asp.NET-Builds\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\BLL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\DAL.dll.config
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\obj\Debug\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\WebAPITest\BLL\obj\Debug\BLL.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\BLL.dll.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\BLL.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\DAL.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Renci.SshNet.Async.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Renci.SshNet.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\DAL.pdb
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\DAL.dll.config
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Renci.SshNet.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\Renci.SshNet.Async.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\obj\Debug\BLL.dll
+E:\AIUB\DOTNET [A]\LAB\Asp.NET-Builds\WebAPITest\BLL\obj\Debug\BLL.pdb
